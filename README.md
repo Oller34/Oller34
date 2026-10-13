@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I transform complex data into actionable insights 
 - 🎓 **Education:** Graduating in Systems Analysis & Development (ADS).
 - 📊 **What I Do:** End-to-end data analysis, ETL pipelines, interactive dashboards, and business problem-solving.
 - 💡 **Core Toolkit:** Power BI, SQL, Python (Pandas/Seaborn), Excel (Power Query/DAX).
-- 🌐 **Portfolio Website:** [Access My Live Portfolio](https://Oller34.github.io/Portfolio-Web) *(Ajuste com o link do seu site)*
+- 🌐 **Site do Portfólio:** [Acesse Meu Portfólio Online](https://Oller34.github.io/Portfolio-Web)
 
 ---
 
